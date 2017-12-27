@@ -1,4 +1,4 @@
-# Basic ExpressJS Boilerplate
+# Basic ExpressJS + EJS Boilerplate
 This boilerplate is intended to create a simple NodeJS Web Server using Express + EJS Framework with basic **routes**.
 
 ### How to use
@@ -20,6 +20,7 @@ You should see
  - [ExpressJS](https://expressjs.com/) - NodeJS Web Framework
  - [Request](https://www.npmjs.com/package/request) - Library to make HTTP calls in NodeJS.
  - [EJS](http://ejs.co/) - javascript template library.
+ - [Express Session](https://github.com/expressjs/session) - session middleware for persistent data.
  
 ### Dev Dependencies
  - [Localtunnel](https://localtunnel.github.io/www/) - allows you to expose your local development environment (localhost) to internet.
@@ -27,4 +28,4 @@ You should see
 
 ### Folder Structure
   
-  ![Folder Structure](https://imgur.com/HhaUjsc.png)
+  ![Folder Structure](https://imgur.com/hGis6kU.png)
